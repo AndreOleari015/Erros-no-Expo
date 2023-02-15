@@ -1,5 +1,5 @@
 ### Bem vindo(a)
-Esse repositório foi feito para ser uma biblioteca de error, pode ser que isso já exista, mas como eu não encontrei algo que listase os error de forma simples e que logo abaixo mostra a as Possiveis solucões resolvi Fazer Minha propria e se você quiser também pode ajudar, se por um acaso você conseguiu resolver aquele Ponto e virgula que tava faltando e quer ajudar outros devs a não ter que passar pelo mesmo estresse, coloque aqui a palavra chave do erro e a sua solucão, espero que esse repositório possa te ajudar :)
+Esse repositório foi feito para ser uma biblioteca de erros, pode ser que isso já exista, mas como eu não encontrei algo que listase os errorls de forma simples e que logo abaixo mostra a as possiveis solucões resolvi Fazer minha propria e se você quiser também pode ajudar, se por um acaso você conseguiu resolver aquele ponto e virgula que tava faltando e quer ajudar outros devs a não ter que passar pelo mesmo estresse, coloque aqui a palavra chave do erro e a sua solucão, espero que esse repositório possa te ajudar :)
 
 ### Objetivo
 
